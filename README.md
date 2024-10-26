@@ -32,12 +32,21 @@ python test.py --dic #path_to_model
 
 ## Cite
 title = {Physics-informed recurrent super-resolution generative reconstruction in rotating detonation combustor},
+
 journal = {Proceedings of the Combustion Institute},
+
 volume = {40},
+
 number = {1},
+
 pages = {105649},
+
 year = {2024},
+
 issn = {1540-7489},
+
 doi = {https://doi.org/10.1016/j.proci.2024.105649},
+
 author = {Xutun Wang and Haocheng Wen and Quan Wen and Bing Wang},
+
 keywords = {Flow-field reconstruction, Physics-informed machine learning, Generative adversarial network, Recurrent neural network, Rotating detonation combustor},
