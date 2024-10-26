@@ -3,6 +3,8 @@
 
 This code was used to implement: Physics-informed Recurrent Super-Resolution Generative Reconstruction in Rotating Detonation Combustor (2023)
 
+
+
 ## Dependencies
 ```
 pip install -r requirements.txt
@@ -27,3 +29,17 @@ For a complete test set evaluation:
 ```
 python test.py --dic #path_to_model
 ```
+
+## Cite
+@article{WANG2024105649,
+title = {Physics-informed recurrent super-resolution generative reconstruction in rotating detonation combustor},
+journal = {Proceedings of the Combustion Institute},
+volume = {40},
+number = {1},
+pages = {105649},
+year = {2024},
+issn = {1540-7489},
+doi = {https://doi.org/10.1016/j.proci.2024.105649},
+url = {https://www.sciencedirect.com/science/article/pii/S1540748924004577},
+author = {Xutun Wang and Haocheng Wen and Quan Wen and Bing Wang},
+keywords = {Flow-field reconstruction, Physics-informed machine learning, Generative adversarial network, Recurrent neural network, Rotating detonation combustor},
